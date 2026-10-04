@@ -16,9 +16,13 @@ async def lifespan(app: FastAPI):
     settings.setup_logging()
     settings.upload_dir.mkdir(parents=True, exist_ok=True)
 
-    # In dev, auto-create tables. In prod, use Alembic migrations.
-    async with engine.begin() as conn:
-        await conn.run_sync(Base.metadata.create_all)
+    # Auto-create tables if not present; gracefully continue if tables exist
+    try:
+        async with engine.begin() as conn:
+            await conn.run_sync(Base.metadata.create_all)
+    except Exception as e:
+        import logging
+        logging.getLogger(__name__).warning(f"Database table initialization warning (continuing startup): {e}")
 
     yield
 
