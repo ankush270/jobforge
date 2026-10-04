@@ -1,0 +1,4104 @@
+[
+  {
+    "name": "Databricks",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/databricks",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Snowflake",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/snowflake",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rubrik",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/rubrik",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nutanix",
+    "category": "Tech / Product",
+    "careers_url": "https://www.nutanix.com/company/careers?role=engineering&location=india",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "VMware",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.broadcom.com/careers?q=Software+Engineer+India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "ServiceNow",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.servicenow.com/jobs/?search=Software+Engineer&country=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Workday",
+    "category": "Tech / Product",
+    "careers_url": "https://workday.wd5.myworkdayjobs.com/Workday?q=Software+Engineer",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "PayPal",
+    "category": "Tech / Product",
+    "careers_url": "https://paypal.wd1.myworkdayjobs.com/PayPal-Jobs?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Airbnb",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/airbnb",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "LinkedIn",
+    "category": "Tech / Product",
+    "careers_url": "https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer&location=India&f_C=1337",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Netflix",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.netflix.com/search?location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Tesla",
+    "category": "Tech / Product",
+    "careers_url": "https://www.tesla.com/careers/search/?query=Software",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "AMD",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.amd.com/careers-home/jobs?keyword=Software&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Intel",
+    "category": "Tech / Product",
+    "careers_url": "https://intel.wd1.myworkdayjobs.com/External?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Samsung R&D",
+    "category": "Tech / Product",
+    "careers_url": "https://research.samsung.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Arista Networks",
+    "category": "Tech / Product",
+    "careers_url": "https://www.arista.com/en/careers?location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.paloaltonetworks.com/en/jobs/?search=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zscaler",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/zscaler",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Razorpay",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/razorpay?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "PhonePe",
+    "category": "Tech / Product",
+    "careers_url": "https://www.phonepe.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "CRED",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/cred?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zepto",
+    "category": "Tech / Product",
+    "careers_url": "https://www.zeptonow.com/careers?department=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Swiggy",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.swiggy.com/#/careers?team=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zomato",
+    "category": "Tech / Product",
+    "careers_url": "https://www.zomato.com/careers?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Meesho",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/meesho?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Groww",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/groww",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Dream11",
+    "category": "Tech / Product",
+    "careers_url": "https://about.dream11.in/careers?team=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Postman",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/postman",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Atlassian India",
+    "category": "Tech / Product",
+    "careers_url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Jane Street",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/janestreet",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Tower Research",
+    "category": "Tech / Product",
+    "careers_url": "https://www.tower-research.com/open-positions?location=gurugram",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Graviton",
+    "category": "Tech / Product",
+    "careers_url": "https://gravitonresearch.com/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Quadeye",
+    "category": "Tech / Product",
+    "careers_url": "https://www.quadeye.com/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Optiver",
+    "category": "Tech / Product",
+    "careers_url": "https://optiver.com/working-at-optiver/career-opportunities/?location=singapore",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Citadel",
+    "category": "Tech / Product",
+    "careers_url": "https://www.citadel.com/careers/open-roles/?department=engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "DE Shaw",
+    "category": "Tech / Product",
+    "careers_url": "https://www.deshawindia.com/careers/open-positions",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Google",
+    "category": "Tech / Product",
+    "careers_url": "https://www.google.com/about/careers/applications/jobs/results?location=India&q=%22Software%20Engineer%22",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Microsoft",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.microsoft.com/us/en/search?keywords=Software%20Engineer&loc=India&distance=50&ls=3&jd=fulltime&rt=jobs",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Amazon",
+    "category": "Tech / Product",
+    "careers_url": "https://www.amazon.jobs/en/search?base_query=Software+Development+Engineer&loc_query=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Meta",
+    "category": "Tech / Product",
+    "careers_url": "https://www.metacareers.com/jobs?locations[0]=Bangalore%2C%20India&roles[0]=Software%20Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Apple",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.apple.com/en-in/search?search=Software%20Engineer&location=india-INDC",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Adobe",
+    "category": "Tech / Product",
+    "careers_url": "https://adobe.wd5.myworkdayjobs.com/external_experienced?q=Software+Engineer",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Atlassian",
+    "category": "Tech / Product",
+    "careers_url": "https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Uber",
+    "category": "Tech / Product",
+    "careers_url": "https://www.uber.com/in/en/careers/list/?location=IND--Bangalore&keywords=Software",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Salesforce",
+    "category": "Tech / Product",
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/Salesforce_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nvidia",
+    "category": "Tech / Product",
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Visa",
+    "category": "Tech / Product",
+    "careers_url": "https://corporate.visa.com/en/careers.html#search-jobs?q=Software+Engineer+India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mastercard",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.mastercard.com/us/en/search-results?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Stripe",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/stripe",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Goldman Sachs",
+    "category": "Tech / Product",
+    "careers_url": "https://www.goldmansachs.com/careers/search-jobs/index.html#country=India&role=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Morgan Stanley",
+    "category": "Tech / Product",
+    "careers_url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4ba1eb798dc7/candidate/jobboard/vacancy/1/adv/?keywords=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "JP Morgan",
+    "category": "Tech / Product",
+    "careers_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?location=India&keyword=Software+Engineer",
+    "ats_or_portal": "Oracle Cloud",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "American Express",
+    "category": "Tech / Product",
+    "careers_url": "https://aexp.eightfold.ai/careers?query=Software%20Engineer&location=India",
+    "ats_or_portal": "Eightfold AI",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Intuit",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.intuit.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Oracle",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?location=India&keyword=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cisco",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.cisco.com/jobs/SearchJobs/India?keyword=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Walmart Global Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Flipkart",
+    "category": "Tech / Product",
+    "careers_url": "https://www.flipkartcareers.com/#!/search-jobs?keywords=Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Qualcomm",
+    "category": "Tech / Product",
+    "careers_url": "https://qualcomm.wd5.myworkdayjobs.com/External?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Texas Instruments",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.ti.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cloudflare",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/cloudflare",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Confluent",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/confluent",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "MongoDB",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/mongodb",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Elastic",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/elastic",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Splunk",
+    "category": "Tech / Product",
+    "careers_url": "https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Software+Engineer&country=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "NetApp",
+    "category": "Tech / Product",
+    "careers_url": "https://netapp.wd1.myworkdayjobs.com/CareersatNetApp?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Pure Storage",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/purestorage",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Juniper Networks",
+    "category": "Tech / Product",
+    "careers_url": "https://junipernetworks.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Okta",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/okta",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Twilio",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/twilio",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Shopify",
+    "category": "Tech / Product",
+    "careers_url": "https://www.shopify.com/careers/search?keywords=Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Booking.com",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.booking.com/jobs?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Expedia",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.expediagroup.com/jobs?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "eBay",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ebayinc.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Yahoo",
+    "category": "Tech / Product",
+    "careers_url": "https://www.yahooinc.com/careers/search-jobs?keywords=Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Dropbox",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/dropbox",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Square",
+    "category": "Tech / Product",
+    "careers_url": "https://www.leadsquared.com/careers/?department=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Coinbase",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/coinbase",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Capital One",
+    "category": "Tech / Product",
+    "careers_url": "https://www.capitalonecareers.com/search-jobs/Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Citi",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.citi.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Wells Fargo",
+    "category": "Tech / Product",
+    "careers_url": "https://www.wellsfargojobs.com/en/jobs/?search=Software+Engineer&country=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Barclays",
+    "category": "Tech / Product",
+    "careers_url": "https://search.jobs.barclays/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "UBS",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ubs.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkclick",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Deutsche Bank",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.db.com/professionals/search-roles/?keyword=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "BlackRock",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.blackrock.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Fidelity",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.fidelity.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nomura",
+    "category": "Tech / Product",
+    "careers_url": "https://www.nomuraholdings.com/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Micron",
+    "category": "Tech / Product",
+    "careers_url": "https://micron.wd1.myworkdayjobs.com/external?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Broadcom",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.broadcom.com/careers?q=Software+Engineer+India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Marvell",
+    "category": "Tech / Product",
+    "careers_url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Synopsys",
+    "category": "Tech / Product",
+    "careers_url": "https://synopsys.wd1.myworkdayjobs.com/Synopsys_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cadence",
+    "category": "Tech / Product",
+    "careers_url": "https://cadence.wd1.myworkdayjobs.com/External_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "KLA",
+    "category": "Tech / Product",
+    "careers_url": "https://kla.wd1.myworkdayjobs.com/Search?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Applied Materials",
+    "category": "Tech / Product",
+    "careers_url": "https://amat.wd1.myworkdayjobs.com/Applied_Materials_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Lam Research",
+    "category": "Tech / Product",
+    "careers_url": "https://lamresearch.wd1.myworkdayjobs.com/LamCareers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Slice",
+    "category": "Tech / Product",
+    "careers_url": "https://sliceit.com/careers?team=Engineering",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Jupiter",
+    "category": "Tech / Product",
+    "careers_url": "https://jupiter.money/careers/?dept=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Juspay",
+    "category": "Tech / Product",
+    "careers_url": "https://juspay.in/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Navi",
+    "category": "Tech / Product",
+    "careers_url": "https://navi.com/careers?department=Engineering",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ola",
+    "category": "Tech / Product",
+    "careers_url": "https://www.olacabs.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sprinklr",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/sprinklr",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Freshworks",
+    "category": "Tech / Product",
+    "careers_url": "https://www.freshworks.com/company/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zoho",
+    "category": "Tech / Product",
+    "careers_url": "https://www.zoho.com/careers/jobdetails.html",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "InMobi",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/inmobi",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Autodesk",
+    "category": "Tech / Product",
+    "careers_url": "https://autodesk.wd1.myworkdayjobs.com/Ext?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sabre",
+    "category": "Tech / Product",
+    "careers_url": "https://sabre.wd5.myworkdayjobs.com/Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nielsen",
+    "category": "Tech / Product",
+    "careers_url": "https://www.nielsen.com/careers/search-jobs/?keyword=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Visa Inc.",
+    "category": "Tech / Product",
+    "careers_url": "https://corporate.visa.com/en/careers.html#search-jobs?q=Software+Engineer+India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Lyft",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/lyft",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Pinterest",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/pinterest",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Snap",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.snap.com/jobs?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Roblox",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/roblox",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Unity",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.unity.com/jobs?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zendesk",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/zendesk?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "HubSpot",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/hubspot",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Box",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/box",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Veeva Systems",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.veeva.com/job-search/?keyword=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Palantir",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/palantir?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Qualtrics",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/qualtrics",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Informatica",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.informatica.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Teradata",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.teradata.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Bloomberg",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.bloomberg.com/job/search?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "State Street",
+    "category": "Tech / Product",
+    "careers_url": "https://statestreet.wd1.myworkdayjobs.com/Global?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Standard Chartered",
+    "category": "Tech / Product",
+    "careers_url": "https://scb.taleo.net/careersection/ex/jobsearch.ftl?keyword=Software+Engineer",
+    "ats_or_portal": "Taleo",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "HSBC Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://mycareer.hsbc.com/en_GB/external?keyword=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Fiserv",
+    "category": "Tech / Product",
+    "careers_url": "https://www.fiserv.com/en/about-fiserv/careers.html?keyword=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "FIS Global",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.fisglobal.com/us/en/search-results?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Paytm",
+    "category": "Tech / Product",
+    "careers_url": "https://paytm.com/careers?department=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "BharatPe",
+    "category": "Tech / Product",
+    "careers_url": "https://bharatpe.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "NXP",
+    "category": "Tech / Product",
+    "careers_url": "https://nxp.wd3.myworkdayjobs.com/careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "STMicroelectronics",
+    "category": "Tech / Product",
+    "careers_url": "https://stcareers.st.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Western Digital",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.smartrecruiters.com/WesternDigital?search=Software+Engineer",
+    "ats_or_portal": "SmartRecruiters",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Seagate",
+    "category": "Tech / Product",
+    "careers_url": "https://seagatecareers.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Analog Devices",
+    "category": "Tech / Product",
+    "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/External?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Infineon",
+    "category": "Tech / Product",
+    "careers_url": "https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/#!view=jobs&term=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Renesas",
+    "category": "Tech / Product",
+    "careers_url": "https://renesas.wd3.myworkdayjobs.com/Renesas_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cars24",
+    "category": "Tech / Product",
+    "careers_url": "https://www.cars24.com/careers/?team=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Urban Company",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.urbancompany.com/?department=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zetwerk",
+    "category": "Tech / Product",
+    "careers_url": "https://www.zetwerk.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rapido",
+    "category": "Tech / Product",
+    "careers_url": "https://rapido.workable.com/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Licious",
+    "category": "Tech / Product",
+    "careers_url": "https://www.licious.in/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Lenskart",
+    "category": "Tech / Product",
+    "careers_url": "https://lenskart.darwinbox.in/ms/candidate/careers",
+    "ats_or_portal": "Darwinbox",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "PhysicsWallah",
+    "category": "Tech / Product",
+    "careers_url": "https://www.pw.live/careers?dept=Tech",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Darwinbox",
+    "category": "Tech / Product",
+    "careers_url": "https://darwinbox.com/careers?department=Engineering",
+    "ats_or_portal": "Darwinbox",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Chargebee",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/chargebee?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Gupshup",
+    "category": "Tech / Product",
+    "careers_url": "https://www.gupshup.io/careers?dept=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rippling",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/rippling",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Gusto",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/gusto",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Brex",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/brex",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Plaid",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/plaid",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ramp",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/ramp",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Figma",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/figma",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Notion",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/notion",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Canva",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/canva?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Asana",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/asana",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Gitlab",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/gitlab",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "HashiCorp",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/hashicorp",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Datadog",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/datadog",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "New Relic",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/newrelic",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Dynatrace",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.dynatrace.com/jobs/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sumo Logic",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/sumologic",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Fivetran",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/fivetran",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cohesity",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/cohesity",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Commvault",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.commvault.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Druva",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/druva",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Harness",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/harness",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "OpenAI",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/openai",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Anthropic",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/anthropic",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Scale AI",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/scaleai",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Hugging Face",
+    "category": "Tech / Product",
+    "careers_url": "https://apply.workable.com/huggingface/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cohere",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/cohere",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mistral",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/mistral",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Glean",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/glean",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sarvam AI",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/sarvamai",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Krutrim",
+    "category": "Tech / Product",
+    "careers_url": "https://olaelectric.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Charles Schwab",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.schwabjobs.com/search-jobs/Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Vanguard",
+    "category": "Tech / Product",
+    "careers_url": "https://www.vanguardjobs.com/search-jobs/Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Northern Trust",
+    "category": "Tech / Product",
+    "careers_url": "https://northerntrust.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Broadridge",
+    "category": "Tech / Product",
+    "careers_url": "https://www.broadridge.com/about/careers?location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Jefferies",
+    "category": "Tech / Product",
+    "careers_url": "https://www.jefferies.com/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Credit Suisse",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/cred?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Barclays Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://search.jobs.barclays/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "ANZ Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.anz.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Wells Fargo Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://www.wellsfargojobs.com/en/jobs/?search=Software+Engineer&country=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "MSCI",
+    "category": "Tech / Product",
+    "careers_url": "https://www.msci.com/careers?keywords=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "S&P Global",
+    "category": "Tech / Product",
+    "careers_url": "https://spg.wd5.myworkdayjobs.com/SPGlobal_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Moody's",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.moodys.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Thomson Reuters",
+    "category": "Tech / Product",
+    "careers_url": "https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Texas Instruments India",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.ti.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ciena",
+    "category": "Tech / Product",
+    "careers_url": "https://ciena.wd5.myworkdayjobs.com/Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nokia",
+    "category": "Tech / Product",
+    "careers_url": "https://www.nokia.com/about-us/careers/job-search/?keyword=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ericsson",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ericsson.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Honeywell",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.honeywell.com/us/en/search-results?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Bosch",
+    "category": "Tech / Product",
+    "careers_url": "https://www.bosch.in/careers/job-offers/?query=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Siemens",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.siemens.com/careers?query=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "GE Aerospace",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.gecareers.com/global/en/ge-aerospace?query=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rockwell",
+    "category": "Tech / Product",
+    "careers_url": "https://rockwellautomation.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "ABB",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.abb/global/en/search-results?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Schneider Electric",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.se.com/search-results?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zerodha",
+    "category": "Tech / Product",
+    "careers_url": "https://zerodha.com/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Upstox",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/upstox?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Dhan",
+    "category": "Tech / Product",
+    "careers_url": "https://dhan.co/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Perfios",
+    "category": "Tech / Product",
+    "careers_url": "https://www.perfios.com/careers?dept=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Pine Labs",
+    "category": "Tech / Product",
+    "careers_url": "https://www.pinelabs.com/careers?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mobikwik",
+    "category": "Tech / Product",
+    "careers_url": "https://www.mobikwik.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Open Financial",
+    "category": "Tech / Product",
+    "careers_url": "https://open.money/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Setu",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/setu?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cashfree",
+    "category": "Tech / Product",
+    "careers_url": "https://www.cashfree.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Khatabook",
+    "category": "Tech / Product",
+    "careers_url": "https://khatabook.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Uniphore",
+    "category": "Tech / Product",
+    "careers_url": "https://www.uniphore.com/careers/?team=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Observe.AI",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/observeai",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Yellow.ai",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/yellowai",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Haptik",
+    "category": "Tech / Product",
+    "careers_url": "https://www.haptik.ai/careers/",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Atlan",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/atlan?team=Engineering",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Hasura",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/hasura",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Innovaccer",
+    "category": "Tech / Product",
+    "careers_url": "https://innovaccer.com/careers/?team=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Leadsquared",
+    "category": "Tech / Product",
+    "careers_url": "https://www.leadsquared.com/careers/?department=Technology",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Airtable",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/airtable",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Miro",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/miro",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Webflow",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/webflow",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Vercel",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/vercel",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Supabase",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/supabase",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Retool",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/retool",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Linear",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/linear",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Amplitude",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/amplitude",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mixpanel",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/mixpanel",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Segment",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/segment",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "PagerDuty",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/pagerduty",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Grafana Labs",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/grafanalabs",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sentry",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/sentry",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "LaunchDarkly",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/launchdarkly",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cockroach Labs",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/cockroachlabs",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "PlanetScale",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/planetscale",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Temporal",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.ashbyhq.com/temporal",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Redis",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/redis",
+    "ats_or_portal": "Ashby API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Couchbase",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/couchbase",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "SingleStore",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/singlestore",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "CrowdStrike",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/crowdstrike",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "SentinelOne",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/sentinelone",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Fortinet",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.jobvite.com/fortinet?q=Software+Engineer&l=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Check Point",
+    "category": "Tech / Product",
+    "careers_url": "https://www.checkpoint.com/careers/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Qualys",
+    "category": "Tech / Product",
+    "careers_url": "https://www.qualys.com/company/careers/?location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Tenable",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/tenable?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rapid7",
+    "category": "Tech / Product",
+    "careers_url": "https://www.rapid7.com/about/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "CyberArk",
+    "category": "Tech / Product",
+    "careers_url": "https://www.cyberark.com/careers/?department=R%26D",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Akamai",
+    "category": "Tech / Product",
+    "careers_url": "https://akamai.wd1.myworkdayjobs.com/Akamai_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "F5 Networks",
+    "category": "Tech / Product",
+    "careers_url": "https://f5.wd5.myworkdayjobs.com/f5careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Netskope",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/netskope",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Wiz",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/wiz",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "SAP Labs",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.sap.com/search/?q=Software+Engineer&locationsearch=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Sage",
+    "category": "Tech / Product",
+    "careers_url": "https://sage.wd3.myworkdayjobs.com/Sage_Careers?q=Software+Engineer",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Infor",
+    "category": "Tech / Product",
+    "careers_url": "https://infor.wd1.myworkdayjobs.com/External?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Epicor",
+    "category": "Tech / Product",
+    "careers_url": "https://epicor.wd5.myworkdayjobs.com/Epicor_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Kronos",
+    "category": "Tech / Product",
+    "careers_url": "https://www.ukg.com/careers/search-jobs?keywords=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Medallia",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/medallia",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Anaplan",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/anaplan",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Coupa",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/coupa",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Blackline",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/blackline",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Avalara",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/avalara",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Instacart",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/instacart",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "DoorDash",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/doordash",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Wayfair",
+    "category": "Tech / Product",
+    "careers_url": "https://www.wayfair.com/careers/jobs?keywords=Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Etsy",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/etsy",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Target Tech",
+    "category": "Tech / Product",
+    "careers_url": "https://corporate.target.com/careers/search-jobs?k=Software+Engineer&l=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Lowe's India",
+    "category": "Tech / Product",
+    "careers_url": "https://lowes.wd1.myworkdayjobs.com/lowesindia?q=Software+Engineer",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Best Buy",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.bestbuy.com/bby?id=search_results_page&keyword=Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Home Depot",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.homedepot.com/search-jobs/Software%20Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Myntra",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.myntra.com/?team=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Nykaa",
+    "category": "Tech / Product",
+    "careers_url": "https://www.nykaa.com/careers?dept=Tech",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "BigBasket",
+    "category": "Tech / Product",
+    "careers_url": "https://www.bigbasket.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Delhivery",
+    "category": "Tech / Product",
+    "careers_url": "https://www.delhivery.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Arm",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.arm.com/search-jobs/Software%20Engineer/India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cirrus Logic",
+    "category": "Tech / Product",
+    "careers_url": "https://cirrus.wd1.myworkdayjobs.com/Cirrus_Logic_Careers?q=Software+Engineer",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Microchip",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.microchip.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Silicon Labs",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.jobvite.com/silabs?q=Software+Engineer",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Lattice",
+    "category": "Tech / Product",
+    "careers_url": "https://www.latticesemi.com/about/careers?location=India",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Rambus",
+    "category": "Tech / Product",
+    "careers_url": "https://rambus.wd1.myworkdayjobs.com/Rambus_Careers?q=Software+Engineer+India",
+    "ats_or_portal": "Workday",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Cypress",
+    "category": "Tech / Product",
+    "careers_url": "https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/#!term=Software%20Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Keysight",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.keysight.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Tessolve",
+    "category": "Tech / Product",
+    "careers_url": "https://www.tessolve.com/careers/?role=Software",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mediatek",
+    "category": "Tech / Product",
+    "careers_url": "https://careers.mediatek.com/search/?q=Software+Engineer&location=India",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ather Energy",
+    "category": "Tech / Product",
+    "careers_url": "https://www.atherenergy.com/careers?department=Software",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Ola Electric",
+    "category": "Tech / Product",
+    "careers_url": "https://www.olaelectric.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Zeta",
+    "category": "Tech / Product",
+    "careers_url": "https://www.zeta.tech/careers/?dept=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Mindtickle",
+    "category": "Tech / Product",
+    "careers_url": "https://jobs.lever.co/mindtickle?team=Engineering",
+    "ats_or_portal": "Lever API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "CleverTap",
+    "category": "Tech / Product",
+    "careers_url": "https://clevertap.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "MoEngage",
+    "category": "Tech / Product",
+    "careers_url": "https://www.moengage.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "WebEngage",
+    "category": "Tech / Product",
+    "careers_url": "https://webengage.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "BrowserStack",
+    "category": "Tech / Product",
+    "careers_url": "https://www.browserstack.com/careers?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Whatfix",
+    "category": "Tech / Product",
+    "careers_url": "https://boards.greenhouse.io/whatfix",
+    "ats_or_portal": "Greenhouse API",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Exotel",
+    "category": "Tech / Product",
+    "careers_url": "https://exotel.com/careers/?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Gojek",
+    "category": "Tech / Product",
+    "careers_url": "https://www.gojek.io/careers?department=Engineering",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  },
+  {
+    "name": "Dunzo",
+    "category": "Tech / Product",
+    "careers_url": "https://www.dunzo.com/careers",
+    "ats_or_portal": "Direct Portal",
+    "locations_in_india": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Gurugram",
+      "Remote India"
+    ],
+    "status": "verified"
+  }
+]

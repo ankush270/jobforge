@@ -1,0 +1,401 @@
+# ==============================================================================
+# JOBFORGE MASTER PRE-FILTERED CAREER PORTALS (INDIA & REMOTE | 0-1 YR TECH)
+# ------------------------------------------------------------------------------
+# ALL LINKS ARE PRE-FILTERED FOR: Software Engineer / Engineering / SDE + India
+# CLICKING ANY LINK IMMEDIATELY OPENS RELEVANT TECH OPENINGS
+# ==============================================================================
+
+
+# ------------------------------------------------------------------------------
+# TECH/PRODUCT (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Databricks: https://boards.greenhouse.io/databricks
+Snowflake: https://jobs.ashbyhq.com/snowflake
+Rubrik: https://boards.greenhouse.io/rubrik
+Nutanix: https://www.nutanix.com/company/careers?role=engineering&location=india
+VMware: https://careers.broadcom.com/careers?q=Software+Engineer+India
+ServiceNow: https://careers.servicenow.com/jobs/?search=Software+Engineer&country=India
+Workday: https://workday.wd5.myworkdayjobs.com/Workday?q=Software+Engineer
+PayPal: https://paypal.wd1.myworkdayjobs.com/PayPal-Jobs?q=Software+Engineer+India
+Airbnb: https://boards.greenhouse.io/airbnb
+LinkedIn: https://www.linkedin.com/jobs/search/?keywords=Software%20Engineer&location=India&f_C=1337
+Netflix: https://jobs.netflix.com/search?location=India
+Tesla: https://www.tesla.com/careers/search/?query=Software
+AMD: https://careers.amd.com/careers-home/jobs?keyword=Software&location=India
+Intel: https://intel.wd1.myworkdayjobs.com/External?q=Software+Engineer+India
+Samsung R&D: https://research.samsung.com/careers
+Arista Networks: https://www.arista.com/en/careers?location=India
+Palo Alto Networks: https://jobs.paloaltonetworks.com/en/jobs/?search=Software+Engineer&location=India
+Zscaler: https://boards.greenhouse.io/zscaler
+
+# ------------------------------------------------------------------------------
+# INDIAN STARTUPS/UNICORNS (STRONG PAY) (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Razorpay: https://jobs.lever.co/razorpay?team=Engineering
+PhonePe: https://www.phonepe.com/careers/?department=Engineering
+CRED: https://jobs.lever.co/cred?team=Engineering
+Zepto: https://www.zeptonow.com/careers?department=Technology
+Swiggy: https://careers.swiggy.com/#/careers?team=Engineering
+Zomato: https://www.zomato.com/careers?department=Engineering
+Meesho: https://jobs.lever.co/meesho?team=Engineering
+Groww: https://boards.greenhouse.io/groww
+Dream11: https://about.dream11.in/careers?team=Technology
+Postman: https://boards.greenhouse.io/postman
+Atlassian India: https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=India
+
+# ------------------------------------------------------------------------------
+# TRADING/QUANT (SABSE ZYADA PAY) (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Jane Street: https://boards.greenhouse.io/janestreet
+Tower Research: https://www.tower-research.com/open-positions?location=gurugram
+Graviton: https://gravitonresearch.com/careers/
+Quadeye: https://www.quadeye.com/careers/
+Optiver: https://optiver.com/working-at-optiver/career-opportunities/?location=singapore
+Citadel: https://www.citadel.com/careers/open-roles/?department=engineering
+DE Shaw: https://www.deshawindia.com/careers/open-positions
+
+# ------------------------------------------------------------------------------
+# PRODUCT/BIG TECH (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Google: https://www.google.com/about/careers/applications/jobs/results?location=India&q=%22Software%20Engineer%22
+Microsoft: https://careers.microsoft.com/us/en/search?keywords=Software%20Engineer&loc=India&distance=50&ls=3&jd=fulltime&rt=jobs
+Amazon: https://www.amazon.jobs/en/search?base_query=Software+Development+Engineer&loc_query=India
+Meta: https://www.metacareers.com/jobs?locations[0]=Bangalore%2C%20India&roles[0]=Software%20Engineering
+Apple: https://jobs.apple.com/en-in/search?search=Software%20Engineer&location=india-INDC
+Adobe: https://adobe.wd5.myworkdayjobs.com/external_experienced?q=Software+Engineer
+Atlassian: https://www.atlassian.com/company/careers/all-jobs?team=Engineering&location=India
+Uber: https://www.uber.com/in/en/careers/list/?location=IND--Bangalore&keywords=Software
+Salesforce: https://salesforce.wd12.myworkdayjobs.com/Salesforce_Careers?q=Software+Engineer+India
+Nvidia: https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite?q=Software+Engineer+India
+
+# ------------------------------------------------------------------------------
+# FINTECH/PAYMENTS (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Visa: https://corporate.visa.com/en/careers.html#search-jobs?q=Software+Engineer+India
+Mastercard: https://careers.mastercard.com/us/en/search-results?keywords=Software%20Engineer&location=India
+Stripe: https://boards.greenhouse.io/stripe
+Goldman Sachs: https://www.goldmansachs.com/careers/search-jobs/index.html#country=India&role=Engineering
+Morgan Stanley: https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/xf-4ba1eb798dc7/candidate/jobboard/vacancy/1/adv/?keywords=Software+Engineer
+JP Morgan: https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions?location=India&keyword=Software+Engineer
+American Express: https://aexp.eightfold.ai/careers?query=Software%20Engineer&location=India
+
+# ------------------------------------------------------------------------------
+# OTHERS (GOOD PAY) (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Intuit: https://jobs.intuit.com/search-jobs/Software%20Engineer/India
+Oracle: https://careers.oracle.com/jobs/#en/sites/jobsearch/requisitions?location=India&keyword=Software+Engineer
+Cisco: https://jobs.cisco.com/jobs/SearchJobs/India?keyword=Software+Engineer
+Walmart Global Tech: https://walmart.wd5.myworkdayjobs.com/WalmartExternal?q=Software+Engineer+India
+Flipkart: https://www.flipkartcareers.com/#!/search-jobs?keywords=Software%20Engineer
+Qualcomm: https://qualcomm.wd5.myworkdayjobs.com/External?q=Software+Engineer+India
+Texas Instruments: https://careers.ti.com/search-jobs/Software%20Engineer/India
+
+# ------------------------------------------------------------------------------
+# TECH/PRODUCT (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Cloudflare: https://boards.greenhouse.io/cloudflare
+Confluent: https://jobs.ashbyhq.com/confluent
+MongoDB: https://boards.greenhouse.io/mongodb
+Elastic: https://boards.greenhouse.io/elastic
+Splunk: https://www.splunk.com/en_us/careers/search-jobs.html?keyword=Software+Engineer&country=India
+NetApp: https://netapp.wd1.myworkdayjobs.com/CareersatNetApp?q=Software+Engineer+India
+Pure Storage: https://boards.greenhouse.io/purestorage
+Juniper Networks: https://junipernetworks.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India
+Okta: https://boards.greenhouse.io/okta
+Twilio: https://boards.greenhouse.io/twilio
+Shopify: https://www.shopify.com/careers/search?keywords=Software%20Engineer
+Booking.com: https://jobs.booking.com/jobs?keywords=Software%20Engineer&location=India
+Expedia: https://careers.expediagroup.com/jobs?keywords=Software%20Engineer&location=India
+eBay: https://jobs.ebayinc.com/search-jobs/Software%20Engineer/India
+Yahoo: https://www.yahooinc.com/careers/search-jobs?keywords=Software%20Engineer
+Dropbox: https://boards.greenhouse.io/dropbox
+Square: https://www.leadsquared.com/careers/?department=Technology
+Coinbase: https://boards.greenhouse.io/coinbase
+
+# ------------------------------------------------------------------------------
+# FINTECH/BANKING (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Capital One: https://www.capitalonecareers.com/search-jobs/Software%20Engineer
+Citi: https://jobs.citi.com/search-jobs/Software%20Engineer/India
+Wells Fargo: https://www.wellsfargojobs.com/en/jobs/?search=Software+Engineer&country=India
+Barclays: https://search.jobs.barclays/search-jobs/Software%20Engineer/India
+UBS: https://jobs.ubs.com/TGnewUI/Search/Home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=searchResults&SearchType=linkclick
+Deutsche Bank: https://careers.db.com/professionals/search-roles/?keyword=Software+Engineer&location=India
+BlackRock: https://careers.blackrock.com/search-jobs/Software%20Engineer/India
+Fidelity: https://jobs.fidelity.com/search-jobs/Software%20Engineer/India
+Nomura: https://www.nomuraholdings.com/careers/
+
+# ------------------------------------------------------------------------------
+# SEMICONDUCTOR/HARDWARE (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Micron: https://micron.wd1.myworkdayjobs.com/external?q=Software+Engineer+India
+Broadcom: https://careers.broadcom.com/careers?q=Software+Engineer+India
+Marvell: https://marvell.wd1.myworkdayjobs.com/MarvellCareers?q=Software+Engineer+India
+Synopsys: https://synopsys.wd1.myworkdayjobs.com/Synopsys_Careers?q=Software+Engineer+India
+Cadence: https://cadence.wd1.myworkdayjobs.com/External_Careers?q=Software+Engineer+India
+KLA: https://kla.wd1.myworkdayjobs.com/Search?q=Software+Engineer+India
+Applied Materials: https://amat.wd1.myworkdayjobs.com/Applied_Materials_Careers?q=Software+Engineer+India
+Lam Research: https://lamresearch.wd1.myworkdayjobs.com/LamCareers?q=Software+Engineer+India
+
+# ------------------------------------------------------------------------------
+# INDIAN STARTUPS (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Slice: https://sliceit.com/careers?team=Engineering
+Jupiter: https://jupiter.money/careers/?dept=Engineering
+Juspay: https://juspay.in/careers
+Navi: https://navi.com/careers?department=Engineering
+Ola: https://www.olacabs.com/careers
+Sprinklr: https://boards.greenhouse.io/sprinklr
+Freshworks: https://www.freshworks.com/company/careers/?department=Engineering
+Zoho: https://www.zoho.com/careers/jobdetails.html
+InMobi: https://boards.greenhouse.io/inmobi
+
+# ------------------------------------------------------------------------------
+# TECH/PRODUCT (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Autodesk: https://autodesk.wd1.myworkdayjobs.com/Ext?q=Software+Engineer+India
+Sabre: https://sabre.wd5.myworkdayjobs.com/Careers?q=Software+Engineer+India
+Nielsen: https://www.nielsen.com/careers/search-jobs/?keyword=Software+Engineer&location=India
+Visa Inc.: https://corporate.visa.com/en/careers.html#search-jobs?q=Software+Engineer+India
+Lyft: https://boards.greenhouse.io/lyft
+Pinterest: https://boards.greenhouse.io/pinterest
+Snap: https://careers.snap.com/jobs?department=Engineering
+Roblox: https://boards.greenhouse.io/roblox
+Unity: https://careers.unity.com/jobs?department=Engineering
+Zendesk: https://jobs.lever.co/zendesk?team=Engineering
+HubSpot: https://boards.greenhouse.io/hubspot
+Box: https://boards.greenhouse.io/box
+Veeva Systems: https://careers.veeva.com/job-search/?keyword=Software+Engineer
+Palantir: https://jobs.lever.co/palantir?team=Engineering
+Qualtrics: https://boards.greenhouse.io/qualtrics
+Informatica: https://careers.informatica.com/search-jobs/Software%20Engineer/India
+Teradata: https://careers.teradata.com/search-jobs/Software%20Engineer/India
+
+# ------------------------------------------------------------------------------
+# BANKING/FINANCE TECH (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Bloomberg: https://careers.bloomberg.com/job/search?q=Software+Engineer&location=India
+State Street: https://statestreet.wd1.myworkdayjobs.com/Global?q=Software+Engineer+India
+Standard Chartered: https://scb.taleo.net/careersection/ex/jobsearch.ftl?keyword=Software+Engineer
+HSBC Tech: https://mycareer.hsbc.com/en_GB/external?keyword=Software+Engineer&location=India
+Fiserv: https://www.fiserv.com/en/about-fiserv/careers.html?keyword=Software+Engineer
+FIS Global: https://careers.fisglobal.com/us/en/search-results?keywords=Software%20Engineer&location=India
+Paytm: https://paytm.com/careers?department=Engineering
+BharatPe: https://bharatpe.com/careers
+
+# ------------------------------------------------------------------------------
+# SEMICONDUCTOR/HARDWARE (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+NXP: https://nxp.wd3.myworkdayjobs.com/careers?q=Software+Engineer+India
+STMicroelectronics: https://stcareers.st.com/search-jobs/Software%20Engineer/India
+Western Digital: https://jobs.smartrecruiters.com/WesternDigital?search=Software+Engineer
+Seagate: https://seagatecareers.com/search-jobs/Software%20Engineer/India
+Analog Devices: https://analogdevices.wd1.myworkdayjobs.com/External?q=Software+Engineer+India
+Infineon: https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/#!view=jobs&term=Software%20Engineer&location=India
+Renesas: https://renesas.wd3.myworkdayjobs.com/Renesas_Careers?q=Software+Engineer+India
+
+# ------------------------------------------------------------------------------
+# INDIAN STARTUPS (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Cars24: https://www.cars24.com/careers/?team=Engineering
+Urban Company: https://careers.urbancompany.com/?department=Technology
+Zetwerk: https://www.zetwerk.com/careers/?department=Engineering
+Rapido: https://rapido.workable.com/?department=Engineering
+Licious: https://www.licious.in/careers
+Lenskart: https://lenskart.darwinbox.in/ms/candidate/careers
+PhysicsWallah: https://www.pw.live/careers?dept=Tech
+Darwinbox: https://darwinbox.com/careers?department=Engineering
+Chargebee: https://jobs.lever.co/chargebee?team=Engineering
+Gupshup: https://www.gupshup.io/careers?dept=Engineering
+
+# ------------------------------------------------------------------------------
+# TECH/PRODUCT (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Rippling: https://boards.greenhouse.io/rippling
+Gusto: https://boards.greenhouse.io/gusto
+Brex: https://boards.greenhouse.io/brex
+Plaid: https://boards.greenhouse.io/plaid
+Ramp: https://jobs.ashbyhq.com/ramp
+Figma: https://boards.greenhouse.io/figma
+Notion: https://jobs.ashbyhq.com/notion
+Canva: https://jobs.lever.co/canva?team=Engineering
+Asana: https://boards.greenhouse.io/asana
+Gitlab: https://boards.greenhouse.io/gitlab
+HashiCorp: https://boards.greenhouse.io/hashicorp
+Datadog: https://boards.greenhouse.io/datadog
+New Relic: https://boards.greenhouse.io/newrelic
+Dynatrace: https://careers.dynatrace.com/jobs/?department=Engineering
+Sumo Logic: https://boards.greenhouse.io/sumologic
+Fivetran: https://boards.greenhouse.io/fivetran
+Cohesity: https://boards.greenhouse.io/cohesity
+Commvault: https://careers.commvault.com/search/?q=Software+Engineer&location=India
+Druva: https://boards.greenhouse.io/druva
+Harness: https://boards.greenhouse.io/harness
+
+# ------------------------------------------------------------------------------
+# AI/ML (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+OpenAI: https://jobs.ashbyhq.com/openai
+Anthropic: https://boards.greenhouse.io/anthropic
+Scale AI: https://boards.greenhouse.io/scaleai
+Hugging Face: https://apply.workable.com/huggingface/?department=Engineering
+Cohere: https://jobs.ashbyhq.com/cohere
+Mistral: https://jobs.ashbyhq.com/mistral
+Glean: https://jobs.ashbyhq.com/glean
+Sarvam AI: https://jobs.ashbyhq.com/sarvamai
+Krutrim: https://olaelectric.com/careers
+
+# ------------------------------------------------------------------------------
+# BANKING/FINANCE TECH (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Charles Schwab: https://jobs.schwabjobs.com/search-jobs/Software%20Engineer
+Vanguard: https://www.vanguardjobs.com/search-jobs/Software%20Engineer
+Northern Trust: https://northerntrust.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India
+Broadridge: https://www.broadridge.com/about/careers?location=India
+Jefferies: https://www.jefferies.com/careers/
+Credit Suisse: https://jobs.lever.co/cred?team=Engineering
+Barclays Tech: https://search.jobs.barclays/search-jobs/Software%20Engineer/India
+ANZ Tech: https://careers.anz.com/search/?q=Software+Engineer&location=India
+Wells Fargo Tech: https://www.wellsfargojobs.com/en/jobs/?search=Software+Engineer&country=India
+MSCI: https://www.msci.com/careers?keywords=Software+Engineer&location=India
+S&P Global: https://spg.wd5.myworkdayjobs.com/SPGlobal_Careers?q=Software+Engineer+India
+Moody's: https://careers.moodys.com/search/?q=Software+Engineer&location=India
+Thomson Reuters: https://thomsonreuters.wd5.myworkdayjobs.com/External_Career_Site?q=Software+Engineer+India
+
+# ------------------------------------------------------------------------------
+# CORE ENGINEERING/HARDWARE (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Texas Instruments India: https://careers.ti.com/search-jobs/Software%20Engineer/India
+Ciena: https://ciena.wd5.myworkdayjobs.com/Careers?q=Software+Engineer+India
+Nokia: https://www.nokia.com/about-us/careers/job-search/?keyword=Software+Engineer&location=India
+Ericsson: https://jobs.ericsson.com/search/?q=Software+Engineer&location=India
+Honeywell: https://careers.honeywell.com/us/en/search-results?keywords=Software%20Engineer&location=India
+Bosch: https://www.bosch.in/careers/job-offers/?query=Software+Engineer
+Siemens: https://jobs.siemens.com/careers?query=Software%20Engineer&location=India
+GE Aerospace: https://jobs.gecareers.com/global/en/ge-aerospace?query=Software+Engineer&location=India
+Rockwell: https://rockwellautomation.wd1.myworkdayjobs.com/Careers?q=Software+Engineer+India
+ABB: https://careers.abb/global/en/search-results?keywords=Software%20Engineer&location=India
+Schneider Electric: https://careers.se.com/search-results?keywords=Software%20Engineer&location=India
+
+# ------------------------------------------------------------------------------
+# INDIAN STARTUPS (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Zerodha: https://zerodha.com/careers/
+Upstox: https://jobs.lever.co/upstox?team=Engineering
+Dhan: https://dhan.co/careers/
+Perfios: https://www.perfios.com/careers?dept=Technology
+Pine Labs: https://www.pinelabs.com/careers?department=Engineering
+Mobikwik: https://www.mobikwik.com/careers
+Open Financial: https://open.money/careers
+Setu: https://jobs.lever.co/setu?team=Engineering
+Cashfree: https://www.cashfree.com/careers/?department=Engineering
+Khatabook: https://khatabook.com/careers
+Uniphore: https://www.uniphore.com/careers/?team=Engineering
+Observe.AI: https://boards.greenhouse.io/observeai
+Yellow.ai: https://boards.greenhouse.io/yellowai
+Haptik: https://www.haptik.ai/careers/
+Atlan: https://jobs.lever.co/atlan?team=Engineering
+Hasura: https://boards.greenhouse.io/hasura
+Innovaccer: https://innovaccer.com/careers/?team=Engineering
+Leadsquared: https://www.leadsquared.com/careers/?department=Technology
+
+# ------------------------------------------------------------------------------
+# TECH/PRODUCT (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Airtable: https://boards.greenhouse.io/airtable
+Miro: https://boards.greenhouse.io/miro
+Webflow: https://boards.greenhouse.io/webflow
+Vercel: https://boards.greenhouse.io/vercel
+Supabase: https://boards.greenhouse.io/supabase
+Retool: https://jobs.ashbyhq.com/retool
+Linear: https://jobs.ashbyhq.com/linear
+Amplitude: https://boards.greenhouse.io/amplitude
+Mixpanel: https://boards.greenhouse.io/mixpanel
+Segment: https://boards.greenhouse.io/segment
+PagerDuty: https://boards.greenhouse.io/pagerduty
+Grafana Labs: https://boards.greenhouse.io/grafanalabs
+Sentry: https://boards.greenhouse.io/sentry
+LaunchDarkly: https://boards.greenhouse.io/launchdarkly
+Cockroach Labs: https://boards.greenhouse.io/cockroachlabs
+PlanetScale: https://jobs.ashbyhq.com/planetscale
+Temporal: https://jobs.ashbyhq.com/temporal
+Redis: https://boards.greenhouse.io/redis
+Couchbase: https://boards.greenhouse.io/couchbase
+SingleStore: https://boards.greenhouse.io/singlestore
+
+# ------------------------------------------------------------------------------
+# CLOUD/SECURITY (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+CrowdStrike: https://boards.greenhouse.io/crowdstrike
+SentinelOne: https://boards.greenhouse.io/sentinelone
+Fortinet: https://jobs.jobvite.com/fortinet?q=Software+Engineer&l=India
+Check Point: https://www.checkpoint.com/careers/?q=Software+Engineer&location=India
+Qualys: https://www.qualys.com/company/careers/?location=India
+Tenable: https://jobs.lever.co/tenable?team=Engineering
+Rapid7: https://www.rapid7.com/about/careers/?department=Engineering
+CyberArk: https://www.cyberark.com/careers/?department=R%26D
+Akamai: https://akamai.wd1.myworkdayjobs.com/Akamai_Careers?q=Software+Engineer+India
+F5 Networks: https://f5.wd5.myworkdayjobs.com/f5careers?q=Software+Engineer+India
+Netskope: https://boards.greenhouse.io/netskope
+Wiz: https://boards.greenhouse.io/wiz
+
+# ------------------------------------------------------------------------------
+# ENTERPRISE SOFTWARE (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+SAP Labs: https://jobs.sap.com/search/?q=Software+Engineer&locationsearch=India
+Sage: https://sage.wd3.myworkdayjobs.com/Sage_Careers?q=Software+Engineer
+Infor: https://infor.wd1.myworkdayjobs.com/External?q=Software+Engineer+India
+Epicor: https://epicor.wd5.myworkdayjobs.com/Epicor_Careers?q=Software+Engineer+India
+Kronos: https://www.ukg.com/careers/search-jobs?keywords=Software%20Engineer&location=India
+Medallia: https://boards.greenhouse.io/medallia
+Anaplan: https://boards.greenhouse.io/anaplan
+Coupa: https://boards.greenhouse.io/coupa
+Blackline: https://boards.greenhouse.io/blackline
+Avalara: https://boards.greenhouse.io/avalara
+
+# ------------------------------------------------------------------------------
+# E-COMMERCE/CONSUMER (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Instacart: https://boards.greenhouse.io/instacart
+DoorDash: https://boards.greenhouse.io/doordash
+Wayfair: https://www.wayfair.com/careers/jobs?keywords=Software%20Engineer
+Etsy: https://boards.greenhouse.io/etsy
+Target Tech: https://corporate.target.com/careers/search-jobs?k=Software+Engineer&l=India
+Lowe's India: https://lowes.wd1.myworkdayjobs.com/lowesindia?q=Software+Engineer
+Best Buy: https://jobs.bestbuy.com/bby?id=search_results_page&keyword=Software%20Engineer
+Home Depot: https://careers.homedepot.com/search-jobs/Software%20Engineer
+Myntra: https://careers.myntra.com/?team=Engineering
+Nykaa: https://www.nykaa.com/careers?dept=Tech
+BigBasket: https://www.bigbasket.com/careers/?department=Engineering
+Delhivery: https://www.delhivery.com/careers/?department=Engineering
+
+# ------------------------------------------------------------------------------
+# HARDWARE/SEMICONDUCTOR (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Arm: https://careers.arm.com/search-jobs/Software%20Engineer/India
+Cirrus Logic: https://cirrus.wd1.myworkdayjobs.com/Cirrus_Logic_Careers?q=Software+Engineer
+Microchip: https://careers.microchip.com/search/?q=Software+Engineer&location=India
+Silicon Labs: https://jobs.jobvite.com/silabs?q=Software+Engineer
+Lattice: https://www.latticesemi.com/about/careers?location=India
+Rambus: https://rambus.wd1.myworkdayjobs.com/Rambus_Careers?q=Software+Engineer+India
+Cypress: https://www.infineon.com/cms/en/careers/jobsearch/jobsearch/#!term=Software%20Engineer&location=India
+Keysight: https://jobs.keysight.com/search/?q=Software+Engineer&location=India
+Tessolve: https://www.tessolve.com/careers/?role=Software
+Mediatek: https://careers.mediatek.com/search/?q=Software+Engineer&location=India
+
+# ------------------------------------------------------------------------------
+# INDIAN STARTUPS (PRE-FILTERED SDE / TECH INDIA)
+# ------------------------------------------------------------------------------
+Ather Energy: https://www.atherenergy.com/careers?department=Software
+Ola Electric: https://www.olaelectric.com/careers
+Zeta: https://www.zeta.tech/careers/?dept=Engineering
+Mindtickle: https://jobs.lever.co/mindtickle?team=Engineering
+CleverTap: https://clevertap.com/careers/?department=Engineering
+MoEngage: https://www.moengage.com/careers/?department=Engineering
+WebEngage: https://webengage.com/careers/?department=Engineering
+BrowserStack: https://www.browserstack.com/careers?department=Engineering
+Whatfix: https://boards.greenhouse.io/whatfix
+Exotel: https://exotel.com/careers/?department=Engineering
+Gojek: https://www.gojek.io/careers?department=Engineering
+Dunzo: https://www.dunzo.com/careers
+TestCo AI: https://jobs.lever.co/testco

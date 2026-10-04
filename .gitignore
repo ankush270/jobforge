@@ -1,0 +1,35 @@
+# ── Dependencies ────────────────────
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# ── Build artifacts ─────────────────
+.next/
+out/
+dist/
+build/
+*.egg-info/
+
+# ── IDE ─────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Environment ─────────────────────
+.env
+.env.local
+.env.production
+
+# ── System ──────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Uploads ─────────────────────────
+uploads/
+
+# ── Docker volumes ──────────────────
+pgdata/
