@@ -374,6 +374,7 @@ class InterviewRead(BaseModel):
 
 class FunnelStats(BaseModel):
     total_applied: int = 0
+    saved: int = 0
     screening: int = 0
     interviewing: int = 0
     offers: int = 0
@@ -418,6 +419,7 @@ class ContactRead(BaseModel):
     id: UUID
     user_id: UUID
     company_id: UUID | None
+    company_name: str | None = None
     name: str
     title: str | None
     email: str | None

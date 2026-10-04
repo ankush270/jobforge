@@ -5,7 +5,7 @@ from __future__ import annotations
 from fastapi import APIRouter, Query
 from pydantic import BaseModel
 
-from app.dependencies import CurrentUser
+from app.dependencies import CurrentUser, OptionalUser
 from app.services.intelligence.salary_intel import (
     analyze_salary_gap,
     generate_counter_negotiation_script,
@@ -38,7 +38,7 @@ async def get_salary_benchmark(
     experience_yrs: int | None = Query(None, description="Years of experience"),
     location: str | None = Query(None, description="City or country"),
     currency: str = Query("INR", description="INR or USD"),
-    user: CurrentUser = None,
+    user: OptionalUser = None,
 ):
     """Retrieve market compensation benchmarks (P25, P50 Median, P75, P90)."""
     return lookup_market_benchmark(

@@ -2,7 +2,8 @@
  * JobForge API client — typed wrapper for all backend endpoints.
  */
 
-const API_BASE = process.env.NEXT_PUBLIC_API_URL || '';
+const rawBase = process.env.NEXT_PUBLIC_API_URL || '';
+const API_BASE = rawBase.endsWith('/') ? rawBase.slice(0, -1) : rawBase;
 
 interface RequestOptions {
   method?: string;
@@ -338,6 +339,7 @@ export interface KanbanBoard {
 
 export interface FunnelStats {
   total_applied: number;
+  saved?: number;
   screening: number;
   interviewing: number;
   offers: number;
@@ -345,6 +347,9 @@ export interface FunnelStats {
   ghosted: number;
   screen_rate: number | null;
   offer_rate: number | null;
+  avg_days_to_screen?: number | null;
+  avg_days_to_reject?: number | null;
+  ghost_risk_count?: number;
 }
 
 export interface CoverLetter {

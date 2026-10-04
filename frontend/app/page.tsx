@@ -211,7 +211,7 @@ export default function DashboardPage() {
             }}
           >
             {[
-              { label: 'Saved', count: stats?.total_applied ? Math.max(stats.total_applied + 4, 8) : 0 },
+              { label: 'Saved', count: stats?.saved ?? 0 },
               { label: 'Applied', count: stats?.total_applied ?? 0 },
               { label: 'Screening', count: stats?.screening ?? 0 },
               { label: 'Interviewing', count: stats?.interviewing ?? 0 },

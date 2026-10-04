@@ -115,8 +115,15 @@ export default function ApplicationsPage() {
         ) : (
           <div className="kanban-board">
             {KANBAN_COLUMNS.map(({ key, label, icon: Icon, color }) => {
-              const cards = board?.columns[key] || [];
-              const count = board?.stats[key] || 0;
+              const cards =
+                key === 'interview_scheduled'
+                  ? [...(board?.columns['interview_scheduled'] || []), ...(board?.columns['interviewing'] || [])]
+                  : key === 'offer_received'
+                  ? [...(board?.columns['offer_received'] || []), ...(board?.columns['negotiating'] || []), ...(board?.columns['accepted'] || [])]
+                  : key === 'rejected'
+                  ? [...(board?.columns['rejected'] || []), ...(board?.columns['archived'] || []), ...(board?.columns['withdrawn'] || [])]
+                  : board?.columns[key] || [];
+              const count = cards.length;
 
               return (
                 <div key={key} className="kanban-column">

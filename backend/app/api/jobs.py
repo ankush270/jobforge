@@ -9,7 +9,7 @@ from sqlalchemy import func, select
 from sqlalchemy.orm import joinedload
 
 from app.db.models import Company, Job
-from app.dependencies import DB, CurrentUser
+from app.dependencies import DB, CurrentUser, OptionalUser
 from app.schemas import JobClipRequest, JobCreate, JobListResponse, JobRead, JobScrapeRequest
 from app.services.scraper.dedup import generate_canonical_key, slugify
 from app.services.scraper.ghost_detector import analyze_ghost_and_repost
@@ -24,7 +24,7 @@ def _get_or_create_company_slug(name: str) -> str:
 @router.get("/", response_model=JobListResponse)
 async def list_jobs(
     db: DB,
-    user: CurrentUser,
+    user: OptionalUser = None,
     page: int = Query(1, ge=1),
     page_size: int = Query(25, ge=1, le=100),
     search: str | None = None,

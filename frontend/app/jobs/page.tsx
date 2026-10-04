@@ -36,7 +36,7 @@ import {
 } from 'lucide-react';
 
 export default function JobsPage() {
-  const { user } = useAuth();
+  const { user, openAuthModal } = useAuth();
   const [jobList, setJobList] = useState<Job[]>([]);
   const [total, setTotal] = useState(0);
   const [page, setPage] = useState(1);
@@ -57,12 +57,6 @@ export default function JobsPage() {
   const [notification, setNotification] = useState<string | null>(null);
 
   const loadJobs = async () => {
-    if (!hasToken()) {
-      setJobList([]);
-      setTotal(0);
-      setLoading(false);
-      return;
-    }
     setLoading(true);
     try {
       const res = await jobs.list({
@@ -103,6 +97,10 @@ export default function JobsPage() {
   };
 
   const handleEvaluate = async (job: Job) => {
+    if (!hasToken()) {
+      openAuthModal('login');
+      return;
+    }
     setEvalJob(job);
     setEvalLoading(true);
     try {
@@ -117,6 +115,10 @@ export default function JobsPage() {
   };
 
   const handleSaveToPipeline = async (jobId: string) => {
+    if (!hasToken()) {
+      openAuthModal('login');
+      return;
+    }
     try {
       await applications.create({ job_id: jobId, status: 'saved' });
       setNotification('Job saved to Kanban tracker.');

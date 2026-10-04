@@ -147,10 +147,24 @@ async def get_funnel_stats(user: CurrentUser, db: DB):
     )
     counts = {row[0].value if isinstance(row[0], AppStatus) else row[0]: row[1] for row in result.all()}
 
-    total_applied = counts.get("applied", 0) + counts.get("screening", 0) + counts.get("interviewing", 0)
+    saved = counts.get("saved", 0)
+    applied_cohort_statuses = [
+        "applied",
+        "screening",
+        "interview_scheduled",
+        "interviewing",
+        "offer_received",
+        "negotiating",
+        "accepted",
+        "rejected",
+        "ghosted",
+        "withdrawn",
+        "archived",
+    ]
+    total_applied = sum(counts.get(st, 0) for st in applied_cohort_statuses)
     screening = counts.get("screening", 0)
     interviewing = counts.get("interview_scheduled", 0) + counts.get("interviewing", 0)
-    offers = counts.get("offer_received", 0) + counts.get("negotiating", 0)
+    offers = counts.get("offer_received", 0) + counts.get("negotiating", 0) + counts.get("accepted", 0)
     rejected = counts.get("rejected", 0)
     ghosted = counts.get("ghosted", 0)
 
@@ -172,6 +186,10 @@ async def get_funnel_stats(user: CurrentUser, db: DB):
         if applied_time.tzinfo is None:
             applied_time = applied_time.replace(tzinfo=timezone.utc)
 
+        updated_time = a.updated_at or now
+        if updated_time.tzinfo is None:
+            updated_time = updated_time.replace(tzinfo=timezone.utc)
+
         # Check for ghosting risk (applied > 21 days ago without progression)
         if a.status in (AppStatus.applied, "applied"):
             days_since_apply = (now - applied_time).days
@@ -185,17 +203,18 @@ async def get_funnel_stats(user: CurrentUser, db: DB):
             AppStatus.interviewing, "interviewing",
             AppStatus.offer_received, "offer_received",
         ):
-            screen_durations.append((a.updated_at - applied_time).total_seconds() / 86400.0)
+            screen_durations.append((updated_time - applied_time).total_seconds() / 86400.0)
 
         # Check rejection latency
         if a.status in (AppStatus.rejected, "rejected"):
-            reject_durations.append((a.updated_at - applied_time).total_seconds() / 86400.0)
+            reject_durations.append((updated_time - applied_time).total_seconds() / 86400.0)
 
     avg_screen = round(sum(screen_durations) / len(screen_durations), 1) if screen_durations else None
     avg_reject = round(sum(reject_durations) / len(reject_durations), 1) if reject_durations else None
 
     return FunnelStats(
         total_applied=total_applied,
+        saved=saved,
         screening=screening,
         interviewing=interviewing,
         offers=offers,

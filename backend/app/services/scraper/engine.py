@@ -45,23 +45,45 @@ async def scrape_jobs(
     from app.services.scraper.filters import is_entry_level_india_engineering
 
     direct_scanned = False
-    for p in platforms:
-        if p == "greenhouse":
-            gh_jobs = await scan_greenhouse_portal(search_query.strip().lower().replace(" ", "-"))
-            jobs.extend(gh_jobs[:results_wanted])
-            direct_scanned = True
-        elif p == "lever":
-            lever_jobs = await scan_lever_portal(search_query.strip().lower().replace(" ", "-"))
-            jobs.extend(lever_jobs[:results_wanted])
-            direct_scanned = True
-        elif p == "ashby":
-            ashby_jobs = await scan_ashby_portal(search_query.strip().lower().replace(" ", "-"))
-            jobs.extend(ashby_jobs[:results_wanted])
-            direct_scanned = True
-        elif p in ("hacker_news", "hn", "hackernews"):
-            hn_jobs = await scan_hacker_news_hiring(search_query, limit=results_wanted)
-            jobs.extend(hn_jobs[:results_wanted])
-            direct_scanned = True
+    ats_direct = [p for p in platforms if p in ("greenhouse", "lever", "ashby")]
+    if ats_direct:
+        # 1. Try if query itself is a specific company token
+        token_candidate = search_query.strip().lower().replace(" ", "-")
+        for p in ats_direct:
+            try:
+                if p == "greenhouse":
+                    gh_jobs = await scan_greenhouse_portal(token_candidate)
+                    jobs.extend(gh_jobs[:results_wanted])
+                elif p == "lever":
+                    lev_jobs = await scan_lever_portal(token_candidate)
+                    jobs.extend(lev_jobs[:results_wanted])
+                elif p == "ashby":
+                    ash_jobs = await scan_ashby_portal(token_candidate)
+                    jobs.extend(ash_jobs[:results_wanted])
+            except Exception:
+                pass
+
+        # 2. If query was a job role, scan target companies and filter by query terms
+        if len(jobs) < results_wanted:
+            ats_target_jobs = await scan_target_ats_boards(
+                filter_entry_india=filter_entry_india,
+                max_companies=20,
+            )
+            q_words = [w for w in search_query.lower().split() if len(w) > 2]
+            for tj in ats_target_jobs:
+                if tj.get("source_platform") in ats_direct:
+                    t_title = tj.get("title", "").lower()
+                    t_desc = tj.get("description", "").lower()
+                    if not q_words or any(w in t_title or w in t_desc for w in q_words):
+                        jobs.append(tj)
+                        if len(jobs) >= results_wanted:
+                            break
+        direct_scanned = True
+
+    if "hacker_news" in platforms or "hn" in platforms or "hackernews" in platforms:
+        hn_jobs = await scan_hacker_news_hiring(search_query, limit=results_wanted)
+        jobs.extend(hn_jobs[:results_wanted])
+        direct_scanned = True
 
     try:
         import asyncio

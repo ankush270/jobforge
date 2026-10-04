@@ -82,13 +82,27 @@ async def generate_custom_answer(body: GenerateAnswerRequest, user: CurrentUser,
     )
 
     if body.save_to_bank:
-        entry = QABankEntry(
-            user_id=user.id,
-            question_key=body.question[:80],
-            answer=answer,
-            context=body.question,
-        )
-        db.add(entry)
+        q_key = body.question[:80]
+        existing = (
+            await db.execute(
+                select(QABankEntry).where(
+                    QABankEntry.user_id == user.id,
+                    QABankEntry.question_key == q_key,
+                    QABankEntry.context == body.question,
+                )
+            )
+        ).scalar_one_or_none()
+
+        if existing:
+            existing.answer = answer
+        else:
+            entry = QABankEntry(
+                user_id=user.id,
+                question_key=q_key,
+                answer=answer,
+                context=body.question,
+            )
+            db.add(entry)
         await db.flush()
 
     return {

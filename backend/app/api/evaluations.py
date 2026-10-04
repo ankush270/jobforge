@@ -120,9 +120,17 @@ async def get_job_evaluation(job_id: UUID, user: CurrentUser, db: DB):
     evaluation = result.scalar_one_or_none()
 
     if evaluation:
+        rec = "APPLY_IMMEDIATELY"
+        if evaluation.overall_score:
+            score_val = float(evaluation.overall_score)
+            rec = "APPLY_IMMEDIATELY" if score_val >= 75 else ("TAILOR_AND_APPLY" if score_val >= 50 else "LOW_PRIORITY")
+        if evaluation.role_match and isinstance(evaluation.role_match, dict) and evaluation.role_match.get("recommendation"):
+            rec = evaluation.role_match["recommendation"]
+
         return {
             "id": str(evaluation.id),
             "overall_score": float(evaluation.overall_score) if evaluation.overall_score else None,
+            "recommendation": rec,
             "tier": evaluation.tier,
             "block_a_role_match": evaluation.role_match,
             "block_b_cv_fit": evaluation.cv_fit,

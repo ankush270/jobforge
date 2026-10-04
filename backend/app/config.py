@@ -26,7 +26,7 @@ class Settings(BaseSettings):
     access_token_expire_minutes: int = 1440  # 24 hours
 
     # ── CORS ──────────────────────────────────────────────────
-    cors_origins: str = "http://localhost:3000"
+    cors_origins: str = "http://localhost:3000,https://jobforge-lemon.vercel.app"
 
     @property
     def cors_origin_list(self) -> list[str]:

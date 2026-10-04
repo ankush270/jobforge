@@ -37,13 +37,33 @@ async def list_contacts(
     company_id: UUID | None = Query(None),
 ):
     """List recruiter and hiring manager contacts."""
-    query = select(Contact).where(Contact.user_id == user.id)
+    query = (
+        select(Contact)
+        .options(joinedload(Contact.company))
+        .where(Contact.user_id == user.id)
+    )
     if company_id:
         query = query.where(Contact.company_id == company_id)
     query = query.order_by(Contact.created_at.desc())
 
     result = await db.execute(query)
-    return [ContactRead.model_validate(c) for c in result.scalars().all()]
+    contacts_list = result.unique().scalars().all()
+    return [
+        ContactRead(
+            id=c.id,
+            user_id=c.user_id,
+            company_id=c.company_id,
+            company_name=c.company.name if c.company else None,
+            name=c.name,
+            title=c.title,
+            email=c.email,
+            linkedin_url=c.linkedin_url,
+            source=c.source,
+            notes=c.notes,
+            created_at=c.created_at,
+        )
+        for c in contacts_list
+    ]
 
 
 @router.post("/", response_model=ContactRead, status_code=status.HTTP_201_CREATED)
@@ -61,7 +81,20 @@ async def create_contact(body: ContactCreate, user: CurrentUser, db: DB):
     )
     db.add(contact)
     await db.flush()
-    return ContactRead.model_validate(contact)
+    await db.refresh(contact, attribute_names=["company"])
+    return ContactRead(
+        id=contact.id,
+        user_id=contact.user_id,
+        company_id=contact.company_id,
+        company_name=contact.company.name if contact.company else None,
+        name=contact.name,
+        title=contact.title,
+        email=contact.email,
+        linkedin_url=contact.linkedin_url,
+        source=contact.source,
+        notes=contact.notes,
+        created_at=contact.created_at,
+    )
 
 
 @router.post("/draft-pitch")
