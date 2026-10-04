@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState, useMemo, useCallback } from 'react';
+import Link from 'next/link';
 import { Topbar } from '@/components/Topbar';
 import { Sidebar } from '@/components/Sidebar';
 import {
@@ -396,16 +397,27 @@ export default function CompaniesPage() {
                   </div>
                 )}
 
-                <a
-                  href={company.careers_url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="tc-card-link"
-                >
-                  <Globe size={12} />
-                  Open Career Portal
-                  <ArrowUpRight size={12} />
-                </a>
+                <div style={{ display: 'flex', gap: '8px', marginTop: '12px' }}>
+                  <Link
+                    href={`/jobs?search=${encodeURIComponent(company.name)}`}
+                    className="tc-card-link"
+                    style={{ flex: 1, textAlign: 'center', justifyContent: 'center' }}
+                  >
+                    <Briefcase size={12} />
+                    View Jobs
+                  </Link>
+                  <a
+                    href={company.careers_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="tc-card-link"
+                    style={{ flex: 1, textAlign: 'center', justifyContent: 'center' }}
+                  >
+                    <Globe size={12} />
+                    Portal
+                    <ArrowUpRight size={12} />
+                  </a>
+                </div>
               </div>
             ))}
           </div>
