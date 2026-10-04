@@ -71,16 +71,33 @@ app.include_router(qa_bank_router, prefix="/api")
 app.include_router(contacts_router, prefix="/api")
 
 
+@app.get("/")
+async def root():
+    """Root endpoint for pinging and uptime monitors."""
+    return {
+        "service": "JobForge API",
+        "status": "online",
+        "version": "0.1.0",
+        "health": "/health",
+        "docs": "/docs",
+    }
+
+
+@app.get("/health")
 @app.get("/api/health")
 async def health():
+    """Ultra-lightweight keep-alive health route for Render/cron pings (prevents sleep)."""
+    from datetime import datetime, timezone
     return {
         "status": "ok",
-        "version": "0.1.0",
-        "llm_providers": _get_llm_status(),
+        "service": "JobForge API",
+        "timestamp": datetime.now(timezone.utc).isoformat(),
     }
 
 
 def _get_llm_status() -> dict:
-    from app.ai.llm_router import get_configured_providers
-
-    return {"configured": get_configured_providers(), "default_model": settings.default_llm_model}
+    try:
+        from app.ai.llm_router import get_configured_providers
+        return {"configured": get_configured_providers(), "default_model": settings.default_llm_model}
+    except Exception:
+        return {"configured": [], "default_model": None}
