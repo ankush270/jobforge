@@ -188,16 +188,22 @@ async def scan_target_ats_boards(
     if companies_file is None:
         candidate_paths = [
             Path("target_companies.json"),
-            Path(__file__).resolve().parents[5] / "target_companies.json",
+            Path("backend/target_companies.json"),
+            Path(__file__).resolve().parent / "target_companies.json",
+            Path(__file__).resolve().parents[1] / "target_companies.json",
+            Path(__file__).resolve().parents[2] / "target_companies.json",
+            Path(__file__).resolve().parents[3] / "target_companies.json",
+            Path(__file__).resolve().parents[4] / "target_companies.json",
             Path("e:/Projects/job/extracted_features/target_companies.json"),
             Path("discovered_ats_companies.json"),
-            Path(__file__).resolve().parents[5] / "discovered_ats_companies.json",
-            Path("e:/Projects/job/extracted_features/discovered_ats_companies.json"),
         ]
         for p in candidate_paths:
-            if p.exists():
-                companies_file = str(p)
-                break
+            try:
+                if p.exists():
+                    companies_file = str(p)
+                    break
+            except Exception:
+                continue
 
     if not companies_file or not Path(companies_file).exists():
         logger.warning("No target companies file found.")

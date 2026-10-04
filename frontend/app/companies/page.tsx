@@ -4,6 +4,7 @@ import { useEffect, useState, useMemo, useCallback } from 'react';
 import Link from 'next/link';
 import { Topbar } from '@/components/Topbar';
 import { Sidebar } from '@/components/Sidebar';
+import { ScrapeJobsModal } from '@/components/ScrapeJobsModal';
 import {
   targetCompanies,
   type TargetCompany,
@@ -84,6 +85,7 @@ export default function CompaniesPage() {
   const [search, setSearch] = useState('');
   const [activeCategory, setActiveCategory] = useState('All');
   const [addOpen, setAddOpen] = useState(false);
+  const [scrapeOpen, setScrapeOpen] = useState(false);
   const [addForm, setAddForm] = useState({ name: '', careers_url: '', category: 'Tech / Product' });
   const [addError, setAddError] = useState('');
   const [addLoading, setAddLoading] = useState(false);
@@ -215,14 +217,24 @@ export default function CompaniesPage() {
                 290+ pre-filtered career portals with ATS detection — search, browse, and manage your target companies
               </p>
             </div>
-            <button
-              className="btn-primary"
-              onClick={() => setAddOpen(true)}
-              style={{ display: 'flex', alignItems: 'center', gap: '6px' }}
-            >
-              <Plus size={14} />
-              Add Company
-            </button>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '10px' }}>
+              <button
+                className="btn-secondary"
+                onClick={() => setScrapeOpen(true)}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px' }}
+              >
+                <Sparkles size={14} style={{ color: 'var(--accent)' }} />
+                Scrape Portals
+              </button>
+              <button
+                className="btn-primary"
+                onClick={() => setAddOpen(true)}
+                style={{ display: 'flex', alignItems: 'center', gap: '6px' }}
+              >
+                <Plus size={14} />
+                Add Company
+              </button>
+            </div>
           </div>
         </div>
 
@@ -499,6 +511,9 @@ export default function CompaniesPage() {
           </div>
         </div>
       )}
+
+      {/* Scrape Jobs Modal */}
+      <ScrapeJobsModal open={scrapeOpen} onClose={() => setScrapeOpen(false)} />
 
       {/* Toast Notification */}
       {toast && (

@@ -29,6 +29,7 @@ export function ScrapeJobsModal({
   const [location, setLocation] = useState('India');
   const [platforms, setPlatforms] = useState<string[]>(['linkedin', 'indeed']);
   const [count, setCount] = useState(20);
+  const [scanTargetCompanies, setScanTargetCompanies] = useState(true);
   const [busy, setBusy] = useState(false);
   const [result, setResult] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -60,6 +61,7 @@ export function ScrapeJobsModal({
         location: location.trim() || undefined,
         platforms,
         results_wanted: count,
+        scan_target_companies: scanTargetCompanies,
       });
       setResult(res.message);
       onDone?.();
@@ -149,7 +151,7 @@ export function ScrapeJobsModal({
           </div>
         </div>
 
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '18px' }}>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', marginBottom: '14px' }}>
           <span style={{ fontSize: '0.82rem', color: 'var(--text-secondary)' }}>
             Results per platform:
           </span>
@@ -164,6 +166,34 @@ export function ScrapeJobsModal({
             onChange={(e) => setCount(Number(e.target.value))}
             disabled={busy}
           />
+        </div>
+
+        <div
+          style={{
+            display: 'flex',
+            alignItems: 'center',
+            gap: '10px',
+            marginBottom: '18px',
+            padding: '10px 12px',
+            borderRadius: '8px',
+            background: 'rgba(230, 81, 0, 0.08)',
+            border: '1px solid rgba(230, 81, 0, 0.25)',
+          }}
+        >
+          <input
+            id="scrape-target-companies"
+            type="checkbox"
+            checked={scanTargetCompanies}
+            onChange={(e) => setScanTargetCompanies(e.target.checked)}
+            disabled={busy}
+            style={{ width: '16px', height: '16px', cursor: 'pointer', accentColor: 'var(--accent)' }}
+          />
+          <label
+            htmlFor="scrape-target-companies"
+            style={{ fontSize: '0.8rem', color: '#fff', cursor: 'pointer', userSelect: 'none' }}
+          >
+            🎯 <strong>Scan 290+ Target Company Portals</strong> (Greenhouse, Lever, Ashby)
+          </label>
         </div>
 
         {busy && (

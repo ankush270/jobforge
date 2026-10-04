@@ -124,7 +124,14 @@ export const jobs = {
   clip: (data: JobClipRequest) =>
     request<Job>('/api/jobs/clip', { method: 'POST', body: data }),
 
-  scrape: (data: { platforms: string[]; search_query: string; location?: string; results_wanted?: number }) =>
+  scrape: (data: {
+    platforms: string[];
+    search_query: string;
+    location?: string;
+    results_wanted?: number;
+    scan_target_companies?: boolean;
+    filter_entry_india?: boolean;
+  }) =>
     request<{ message: string; scraped: number; saved: number }>('/api/jobs/scrape', { method: 'POST', body: data }),
 };
 
